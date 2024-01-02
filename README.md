@@ -11,13 +11,21 @@ The Customer Churn analysis project aims to comprehensively understand, assess a
 ## Data Dictionary 
 
 CreditScore — This can affect customer churn since a customer with a higher credit score is less likely to leave the bank.
+
 Geography — A customer’s location can affect their decision to leave the bank. 
+
 Gender — It’s interesting to explore whether gender plays a role in a customer leaving the bank.
+
 Age — This is certainly relevant since older customers are less likely to leave their bank than younger ones.
+
 Tenure — Refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank.
+
 Balance — Also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank compared to those with lower balances.
+
 NumOfProducts — Refers to the number of products that a customer has purchased through the bank. 
+
 Estimated Salary — As with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
+
 Bank DOJ — Date when the Customer associated/joined with the bank.
 
 HasCrCard — Denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank.
