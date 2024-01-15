@@ -2,7 +2,7 @@
 
 Royal Bank of Canada is facing a drastic increase in the rate of customer churning. RBC must identify the root causes of the increased churn rate and proactively address these issues. Customer retention is often more cost-effective than acquiring new customers, making it a critical aspect of a successful business strategy. 
 
-In this project, I have considered a dataset from RBC which contains the following data which helped me identify the root causes of the increased churn rate. 
+In this project, I have considered a dataset from RBC that contains the following data which helped me identify the root causes of the increased churn rate. 
 
 Aim of the Project:
 
@@ -30,7 +30,7 @@ Bank DOJ — Date when the Customer associated/joined with the bank.
 
 HasCrCard — Denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank.
 1 represents credit card holder
-0 represents non-credit card holder
+0 represents non-credit cardholder
 
 IsActiveMember — Active customers are less likely to leave the bank.
 1 represents Active Member
@@ -61,5 +61,7 @@ CALCULATE, SUM, COUNT, AVERAGE, DIVIDE, SWITCH, CALENDER, FIRSTDATE, LASTDATE, Y
 
 ##  Outcomes: 
 
-
+1. November has the highest number of inactive customers followed by the month of December and then September.
+2. Customers who have a "fair" credit score between 580 and 669 are mostly leaving RBC.
+3. RBC faced highest percentage of customer churn on the year 2017.
 
